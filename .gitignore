@@ -1,0 +1,10 @@
+
+resources/st
+errors.log
+build.sh
+package-lock.json
+atic/assets/download/*
+__test__/
+f-admin/
+node_modules
+ProcFile
